@@ -8,12 +8,12 @@
 
 <br/>
 
-<a href="https://github.com/e2e2a">
-  <img src="https://img.shields.io/github/followers/e2e2a?label=Followers&style=flat&color=58A6FF" />
+<a href="https://github.com/reymondgodoy">
+  <img src="https://img.shields.io/github/followers/reymondgodoy?label=Followers&style=flat&color=58A6FF" />
 </a>
 
-<a href="https://github.com/e2e2a">
-  <img src="https://img.shields.io/github/stars/e2e2a?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=3fb950" />
+<a href="https://github.com/reymondgodoy">
+  <img src="https://img.shields.io/github/stars/reymondgodoy?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=3fb950" />
 </a>
 
 </div>
@@ -95,8 +95,8 @@ build({
 
 <div align="center">
 
-<a href="https://github.com/e2e2a">
-  github.com/e2e2a
+<a href="https://github.com/reymondgodoy">
+  github.com/reymondgodoy
 </a>
 
 </div>
